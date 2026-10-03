@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Manager",
+  "description": "Scannez, renommez vos appareils Bluetooth et sauvegardez vos favoris avec facilité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

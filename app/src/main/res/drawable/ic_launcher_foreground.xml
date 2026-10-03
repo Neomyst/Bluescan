@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="18"
+        android:translateY="18">
+        <!-- Bluetooth Icon -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M36,10 L36,32 L22,18 L17,23 L33,39 L17,55 L22,60 L36,46 L36,68 L50,54 L39,43 L49,33 Z M42,22 L44,24 L42,26 Z M42,52 L44,54 L42,56 Z" />
+        <!-- Star emblem -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M54,48 L56,53 L61,53 L57,56 L58,61 L54,58 L50,61 L51,56 L47,53 L52,53 Z" />
+    </group>
+</vector>
